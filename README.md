@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/Users/vishek/Documents/SmartAttendance/Ksync/Ksync/Assets.xcassets/AppLogo.imageset" width="120" alt="BunkBook Logo"/>
+  <img src="Ksync/Assets.xcassets/AppLogo.imageset/AppLogo.png" width="120" alt="BunkBook Logo"/>
 </p>
 
 <h1 align="center">K-Sync</h1>
