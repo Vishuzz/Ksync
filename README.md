@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="Ksync/Assets.xcassets/AppLogo.imageset/AppLogo.png" width="120" alt="BunkBook Logo"/>
+  <img src="Ksync/Assets.xcassets/AppLogo.imageset/appLogo.png" width="120" alt="BunkBook Logo"/>
 </p>
 
-<h1 align="center">K-Sync</h1>
+<h1 align="center">BunkBook (K-Sync)</h1>
 
 <p align="center">
   <b>Your college attendance & academics — beautifully synced.</b>
